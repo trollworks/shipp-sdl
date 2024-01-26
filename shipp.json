@@ -1,0 +1,9 @@
+{
+  "name": "SDL2",
+  "version": "2.28.5",
+  "scripts": {
+    "build": "make build",
+    "install": "make install"
+  }
+}
+
